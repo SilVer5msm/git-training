@@ -31,7 +31,7 @@ ls ~/.ssh
 Une fois qu'avec votre binôme vous êtes parvenu(e)s à cloner vos dépôts, vous devez pouvoir accéder au fichiers téléchargés.
 Sur chaque machine, modifiez le fichier `README.md` afin d'y ajouter vos propres messages. 
 Les textes que vous devez ajouter ici importent peu, il s'agit simplement de voir comment git réagit aux commits (sauvegardes ).
-
+Message ajouté de la part de Mr0megaa
 Donc,dans un premier temps, ajoutez des messages et faites des commits.
 ```sh
 # Faites votre modification puis
