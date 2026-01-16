@@ -6,7 +6,7 @@ Il s'avère qu'aujourd'hui, l'outil le plus utilisé est git.
 Voici quelques exercices permettant de découvrir quelques subtilisés de git.
 
 Ces exercices sont à réaliser en bi/trinômes (à deux ou trois Thomas)
-
+La raclette c'est delicieux
 ## Exercice N°1
 
 > Le but de cet exercice est de découvrir git et les origines des conflits de merge. 
