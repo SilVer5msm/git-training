@@ -5,7 +5,7 @@ Il s'avère qu'aujourd'hui, l'outil le plus utilisé est git.
 
 Voici quelques exercices permettant de découvrir quelques subtilisés de git.
 
-Ces exercices sont à réaliser en bi/trinômes (à deux ou trois Thomas)
+Ces exercices sont à réaliser en bi/trinômes (à deux ou trois Thomas) la fin du monde approche
 
 ## Exercice N°1
 
