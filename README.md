@@ -63,7 +63,7 @@ La première personne à envoyer le code ne devrait pas avoir de problème, le s
 Reproduisez le même scénario en utilisant votre IDE (visual studio code par ex). 
 
 ## Exercice N°2
-
+blabla
 > Tester les limites de git
 
 Toujours au sein du même dépôt, et toujours en binômes. 
